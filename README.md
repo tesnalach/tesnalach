@@ -13,5 +13,3 @@ Je suis très intéressé par la techonologie 👨‍💻 donc je touche un peu 
 - 📫 Vous pouvez me contacter via Discord : **@tesnalach**.
 - 😄 Pronoms: il/lui
 - ⚡ Fun fact: Baby Yoda s'appelle en réalité Grogu.
--->
-![grogu](https://github.com/tesnalach/tesnalach/assets/111594209/0aebb1d4-3fb0-4c98-ae61-951dcbcd6e1e)
