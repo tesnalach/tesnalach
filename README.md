@@ -20,5 +20,5 @@ Je me surnomme **Micha** et je suis un **jeune développeur français** spécial
 
 - 📫 Vous pouvez me contacter via Discord : **@tesnalach**.
 
-[<img src="https://i.imgur.com/cGLDU76.png">](https://discord.com/users/1191481981226201141)
-[<img src="https://i.imgur.com/OuESJcJ.png">](https://devart.bio/micha)
+[<img src="https://i.imgur.com/mDHxPB8.png">](https://discord.com/users/1191481981226201141)
+[<img src="https://i.imgur.com/GjI6BRQ.png">](https://devart.bio/micha)
