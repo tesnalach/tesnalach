@@ -5,7 +5,7 @@ Je me surnomme **Micha** et je suis un **jeune développeur français** spécial
 ## Développement
 
 - 🔭 Je travail actuellement sur le développement du bot Discord de **Star Wars FR**.
-- 🌱 J'apprends ou plûtot j'approfondie mes compétences en **Python**.
+- 🐍 J'apprends ou plûtot j'approfondie mes compétences en **Python**.
 - 🌐 J'utilise **MySQL** pour les bases de données.
 
 ## Personnellement
@@ -21,4 +21,5 @@ Je me surnomme **Micha** et je suis un **jeune développeur français** spécial
 - 📫 Vous pouvez me contacter via Discord : **@tesnalach**.
 
 [<img src="https://i.imgur.com/mDHxPB8.png">](https://discord.com/users/1191481981226201141)ㅤ
+[<img src="https://i.imgur.com/1EnII2b.png">](https://x.com/tesnalach)ㅤ
 [<img src="https://i.imgur.com/GjI6BRQ.png">](https://devart.bio/micha)
