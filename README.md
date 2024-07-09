@@ -15,3 +15,5 @@ Je me surnomme **Micha** et je suis un **jeune développeur français** spécial
 
 - 📫 Vous pouvez me contacter via Discord : **@tesnalach**.
 - ⚡ Fun fact: Je parle très mal anglais.
+
+![discord-logo-0]([https://github.com/tesnalach/tesnalach/assets/111594209/4d7e81fa-e098-4b4b-9fe6-a523c915b232](https://discord.com/users/1191481981226201141))
